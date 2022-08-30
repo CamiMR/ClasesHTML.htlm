@@ -11,3 +11,12 @@ h1,h2{
 body{
     color:blueviolet
 }
+#t4{
+    color: yellow;
+    font-size: 15px;
+    font-family: 'Trebuchet MS';
+}
+.estilos{
+    color: darkcyan;
+    font-style: italic;
+}
